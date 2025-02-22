@@ -94,37 +94,6 @@ Cores dos LEDs mudam conforme a categoria selecionada
 
 Destaque ">" no OLED indica a palavra atual
 
-📂 Estrutura do Código
-plaintext
-Copy
-bitdoglab-caa/
-├── src/
-│   ├── main.c              # Lógica principal
-│   ├── display.c           # Driver OLED
-│   └── leds.c              # Controle de LEDs
-├── include/
-│   ├── display.h
-│   └── leds.h
-├── pio/
-│   └── ws2812b.pio         # Programa PIO para LEDs
-└── CMakeLists.txt
-🤝 Como Contribuir
-Faça um fork do projeto
-
-Crie uma branch: git checkout -b feature/nova-funcionalidade
-
-Faça commit das mudanças: git commit -m 'Adicionei X recurso'
-
-Envie para o repositório: git push origin feature/nova-funcionalidade
-
-Abra um Pull Request
-
-Áreas prioritárias para contribuição:
-
-Implementação de armazenamento em EEPROM
-
-Tradução para outros idiomas
-
 📄 Licença
 Distribuído sob a licença MIT. Veja LICENSE para detalhes.
 
