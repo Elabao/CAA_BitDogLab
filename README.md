@@ -15,7 +15,7 @@
 </div>
 
 Sistema embarcado **open-source** para auxiliar pessoas com autismo e dificuldades de fala na comunicação cotidiana. Desenvolvido na plataforma **BitDogLab** com Raspberry Pi Pico, utiliza tecnologias como PIO, DMA e PWM para uma experiência responsiva e acessível.
-
+Video explicativo: https://www.youtube.com/watch?v=lh9ZUCZ9jI0
 ---
 
 ## ✨ Funcionalidades Principais
