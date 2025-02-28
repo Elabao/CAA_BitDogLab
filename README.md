@@ -41,13 +41,13 @@ Video explicativo: https://www.youtube.com/watch?v=lh9ZUCZ9jI0
 
 ## 🛠️ Hardware Necessário
 
-| Componente               | Especificações                          | Link de Exemplo |
-|--------------------------|-----------------------------------------|-----------------|
-| Raspberry Pi Pico        | Microcontrolador RP2040                | [Comprar](https://www.raspberrypi.com/products/raspberry-pi-pico/) |
-| Display OLED SSD1306     | 0.96" I2C, 128x64 pixels               | [Comprar](https://www.amazon.com/Diymall-Display-Module-SSD1306-Raspberry/dp/B072Q2X2LL) |
-| Matriz de LEDs WS2812B   | 5x5, endereçável individualmente       | [Comprar](https://www.adafruit.com/product/2441) |
-| Joystick Analógico KY-023| 2 eixos + botão                         | [Comprar](https://www.eletrogate.com/joystick-analogico-ky-023-para-arduino) |
-| Botões Tácteis           | 6x6 mm, normalmente aberto             | [Comprar](https://www.eletrogate.com/botao-tactil-6x6x5mm) |
+| Componente               | Especificações                          | 
+|--------------------------|-----------------------------------------|
+| Raspberry Pi Pico        | Microcontrolador RP2040                | 
+| Display OLED SSD1306     | 0.96" I2C, 128x64 pixels               |
+| Matriz de LEDs WS2812B   | 5x5, endereçável individualmente       |
+| Joystick Analógico KY-023| 2 eixos + botão                         |
+| Botões Tácteis           | 6x6 mm, normalmente aberto             |
 
 ---
 
